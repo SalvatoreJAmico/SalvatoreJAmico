@@ -37,11 +37,8 @@ Outside of coursework, I develop tools like **Commandly**, a cross-platform voic
 ### 🔹 Featured / Pinned Projects
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Commandly**](https://github.com/salvatoreamico/commandly) | Voice-to-command AI desktop assistant integrating Whisper + OpenAI API. | Python, Tkinter, OpenAI, Whisper |
-| [**Ruby PPL Interpreter**](https://github.com/salvatoreamico/ruby-ppl-interpreter) | Educational language interpreter demonstrating parsing, variable memory, and conditional logic. | Ruby |
-| [**CS 463 – kvstore Server**](https://github.com/salvatoreamico/cs463-kvstore) | Concurrent key-value store project showcasing Rust threading and performance tuning. | Rust |
-| [**MCS 320 Symbolic Computation**](https://github.com/salvatoreamico/mcs320-symbolic) | Collection of symbolic algebra notebooks and midterm solutions. | Python, SageMath |
-| [**Database Systems Labs (CS 480)**](https://github.com/salvatoreamico/cs480-databases) | SQL labs including stored procedures, triggers, and relational design. | SQL, MySQL |
+| [**Commandly**](https://github.com/SalvatoreJAmico/commandly_1.02_with_agent) | Voice-to-command AI desktop assistant integrating Whisper + OpenAI API. | Python, Tkinter, OpenAI, Whisper |
+
 
 ---
 
