@@ -60,4 +60,4 @@ As a graduate student, I focus on **applied AI and data-driven systems**, buildi
 ## 📫 Let’s Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/salvatore-j-amico/
-- 📧 **Email:** salamico8731@outlook.com
+- 📧 **Email:** samico8731@gmail.com
