@@ -8,11 +8,12 @@ I hold a **B.S. in Computer Science** from the **University of Illinois Chicago 
 
 ## 🧠 About Me
 
-My journey into computer science started with a fascination for how intelligence can be modeled and automated — from small embedded systems to large-scale AI applications.
+I focus on modeling and automating intelligence across different layers of software — from embedded systems to large-scale AI applications.
 
-During my undergraduate studies at UIC, I built projects across **machine learning**, **databases**, **systems performance**, and **object-oriented programming**, while continuously expanding my toolkit with technologies like **Python, C++, Java, Ruby, and Rust**.
+During my undergraduate studies, I built projects spanning **machine learning**, **databases**, **systems performance**, and **object-oriented programming**, developing a strong foundation in **Python, C++, Java, Ruby, and Rust**.
 
-Outside of coursework, I develop tools like **Commandly**, a cross-platform voice-to-command desktop assistant powered by OpenAI APIs, designed to bridge human interaction with automation. I’m focused on applied AI and data-driven software systems that solve real-world problems.
+As a graduate student, I focus on **applied AI and data-driven systems**, building tools like **Commandly**, a voice-to-command desktop assistant powered by OpenAI APIs, and other projects that emphasize real-world constraints, automation, and decision support.
+
 
 ---
 
@@ -60,15 +61,3 @@ Outside of coursework, I develop tools like **Commandly**, a cross-platform voic
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/salvatore-j-amico/
 - 📧 **Email:** salamico8731@outlook.com
-
----
-
-> *“Technology should empower curiosity — not replace it.”*  
-> — Salvatore J. Amico
-
-
----
-
-> *“Technology should empower curiosity — not replace it.”*  
-> — Salvatore J. Amico
-
