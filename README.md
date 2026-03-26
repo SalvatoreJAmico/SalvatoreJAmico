@@ -64,4 +64,4 @@ Recent work includes **Opsight**, a fully deployed cloud-based ML system on Azur
 ## 📬 Let’s Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/salvatore-j-amico/  
-- 📧 **Email:** samico8731@gmail.com  
+- 📧 **Email:** salamico8731@outlook.com
