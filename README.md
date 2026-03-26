@@ -1,27 +1,31 @@
 # 👋 Hi, I'm Salvatore J. Amico
 
+🚀 Software Engineer focused on **AI systems, data pipelines, and intelligent automation**
+
 Welcome to my GitHub!
 
-I hold a **B.S. in Computer Science** from the **University of Illinois Chicago (UIC)** and am currently a **graduate student** pursuing an **M.S. in Computer Science** at the **University of Illinois Springfield (UIS)**, specializing in **AI and Data Science**, along with a **Graduate Certificate in Data Analytics**.
+I hold a **B.S. in Computer Science** from the **University of Illinois Chicago (UIC)** and am currently pursuing an **M.S. in Computer Science** at the **University of Illinois Springfield (UIS)**, specializing in **AI and Data Science**, along with a **Graduate Certificate in Data Analytics**.
 
 ---
 
 ## 🧠 About Me
 
-I focus on modeling and automating intelligence across different layers of software — from embedded systems to large-scale AI applications.
+I build **end-to-end intelligent systems** — from data ingestion and processing pipelines to user-facing AI applications.
 
-During my undergraduate studies, I built projects spanning **machine learning**, **databases**, **systems performance**, and **object-oriented programming**, developing a strong foundation in **Python, C++, Java, Ruby, and Rust**.
+My work focuses on:
+- designing **modular data pipelines**
+- building **production-style ML systems**
+- integrating **AI into real-world workflows**
 
-As a graduate student, I focus on **applied AI and data-driven systems**, building tools like **Commandly**, a voice-to-command desktop assistant powered by OpenAI APIs, and other projects that emphasize real-world constraints, automation, and decision support.
-
+Recent work includes **Opsight**, a fully deployed cloud-based ML system on Azure that performs ingestion, validation, analytics, anomaly detection, and prediction through a live web interface.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔍 Deepening expertise in **AI, data science, and automation frameworks**
-- 💼 Pursuing a **remote software or AI engineering role**
-- 🧩 Building open-source systems integrating **voice, automation, and intelligent agents**
+- 🔍 Deepening expertise in **AI systems, data pipelines, and automation frameworks**
+- 💼 Pursuing a **remote software / AI engineering role**
+- 🧩 Building modular systems integrating **LLMs, voice interfaces, and automation**
 - 📈 Strengthening fundamentals in **Rust**, **NumPy/SciPy**, and **data visualization**
 
 ---
@@ -30,34 +34,34 @@ As a graduate student, I focus on **applied AI and data-driven systems**, buildi
 
 **Languages:** Python | C++ | Java | Ruby | Rust | SQL  
 
-**Frameworks & Tools:** OpenAI API | Whisper | Tkinter | MySQL | SageMath | NumPy | Matplotlib | Pandas  
+**Frameworks & Tools:** OpenAI API | Whisper | Tkinter | FastAPI | React | Azure | MySQL | NumPy | Pandas | Matplotlib  
 
-**Concepts:** Machine Learning | OOP | Database Design | Concurrency | Symbolic Computation | Data Visualization  
+**Concepts:** Machine Learning | Data Pipelines | OOP | Database Design | Concurrency | Data Validation | System Design  
 
 **Environments:** VS Code | Git | Linux | Windows | WSL | Jupyter Notebook  
 
 ---
 
-## 📌 Featured / Pinned Projects
+## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Intermodal Yard Decision Support System** | Decision-support prototype modeling real-world intermodal rail yard operations, including container flow, constraints, rehandles, missed connections, and KPI-driven evaluation. | Python, Streamlit, Simulation |
-| **Commandly** | Voice-to-command desktop assistant that converts natural language into automated system actions using speech-to-text and LLMs. | Python, Tkinter, OpenAI API, Whisper |
-| **Quickfire-Game** | Multiplayer Arduino reaction-time game using serial communication and LCD scoring across multiple microcontrollers. | C++, Arduino, Embedded Systems |
+| **Opsight** | Deployed full-stack ML system on Azure with real-time ingestion, validation, analytics, anomaly detection, and prediction via a live web UI. | Python, FastAPI, React, Azure |
+| **Intermodal Yard Decision Support System** | Simulation-based decision-support tool modeling intermodal rail yard operations and KPI-driven optimization. | Python, Streamlit |
+| **Commandly** | Voice-to-command desktop assistant converting natural language into automated system actions using LLMs and speech-to-text. | Python, Tkinter, OpenAI API, Whisper |
 
 
 ---
 
 ## 🚀 What’s Next
 
-- Expand **Commandly** into a modular, agent-based desktop application  
-- Develop **AI-driven study and productivity tools** using retrieval-augmented generation  
-- Explore **reinforcement learning** for automation and decision-support systems  
+- Expand **Commandly** into a modular, agent-based desktop system  
+- Build **AI-driven productivity tools** using retrieval-augmented generation  
+- Explore **reinforcement learning** for automation and decision support  
 
 ---
 
-## 📫 Let’s Connect
+## 📬 Let’s Connect
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/salvatore-j-amico/
-- 📧 **Email:** samico8731@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/salvatore-j-amico/  
+- 📧 **Email:** samico8731@gmail.com  
